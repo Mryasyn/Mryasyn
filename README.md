@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[A_banner_in_digital_graphic_design_welcomes_visito.png](https://github.com/Mryasyn/Mryasyn/blob/main/ChatGPT%20Image%206%20avr.%202025%2C%2000_25_15.png)" alt="Welcome Banner" width="100%"/>
+  <img src="ChatGPT Image 6 avr. 2025, 00_25_15.png" alt="Welcome Banner" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Mryasyn</h1>
 <h3 align="center">Future AI engineer in the making | Currently mastering Python, Django & web technologies to build smart systems</h3>
