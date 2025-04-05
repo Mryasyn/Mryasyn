@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="A_banner_in_digital_graphic_design_welcomes_visito.png" alt="Welcome Banner" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Mryasyn</h1>
 <h3 align="center">Future AI engineer in the making | Currently mastering Python, Django & web technologies to build smart systems</h3>
 
